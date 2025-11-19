@@ -15,8 +15,8 @@ This repo hosts my landing page as a DevOps beginner. It tells my story, shows t
 ## Getting Started
 ```bash
 # clone
-git clone https://github.com/your-username/devops-webinar.git
-cd devops-webinar
+git clone https://github.com/Anticoder03/dev-ops-lab-01.git
+cd dev-ops-lab-01.git
 
 # open the page in your default browser
 start index.html        # PowerShell / Windows

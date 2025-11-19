@@ -30,7 +30,6 @@ start index.html        # PowerShell / Windows
 3. Automate deployment with GitHub Pages + CI workflow.
 
 ## Reach Out
-- Email: `hey@anticoder03.dev`
-- Discord: `@anticoder03`
+- Email: `ap5381545@gmail.com`
 
 If you have tips for a DevOps learner or want to collaborate on a lab, feel free to say hi!
